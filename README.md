@@ -18,7 +18,7 @@ An interactive Netflix Content Analytics dashboard built using Power BI to analy
 - Interactive year filtering
 
 ## 📈 Dashboard
-![Netflix Dashboard](Screenshot.png)
+![Netflix Dashboard](Netflix_Dashboard.png)
 
 The dashboard provides an interactive view of Netflix's content distribution and helps identify patterns across content type, geography, ratings, genres, and time.
 
